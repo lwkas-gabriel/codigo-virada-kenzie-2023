@@ -1,7 +1,87 @@
-header{
-
+body{
+    display: flex;
 }
 
 .cabecalho{
-    background-color: brown;
+
+}
+
+.cabecalho__logo{
+
+}
+
+.cabecalho__logo img{
+
+}
+
+.cabecalho__menuNavegacao{
+
+}
+
+.cabecalho__menuLista{
+
+}
+
+.cabecalho__menuItem{
+
+}
+
+.cabecalho__menuItem img{
+    
+}
+
+.cabecalho__menuItem a{
+    
+}
+
+.conteudoPrincipal{
+
+}
+
+.conteudoPrincipal__titulo{
+
+}
+
+.conteudoPrincipal__formulario{
+
+}
+
+.conteudoPrincipal__formulario textarea{
+    
+}
+
+.conteudoPrincipal__formulario button{
+    
+}
+
+.conteudoPrincipal__feed{
+    
+}
+
+.conteudoPrincipal_listaTweets{
+
+}
+
+.conteudoPrincipal__tweet{
+
+}
+
+.tweet__fotoPerfil{
+
+}
+
+.tweet__info{
+
+}
+
+.tweet__info h2{
+
+}
+
+.tweet__info span{
+    
+}
+
+.tweet__info p{
+    
 }
