@@ -1,10 +1,11 @@
 body{
+    font-family: roboto, sans-serif;
 }
 
 .container{
     display: flex;
     width: 100%;
-    max-width: 1200px;
+    max-width: 900px;
     margin: 0 auto;
 }
 
@@ -91,7 +92,10 @@ body{
 }
 
 .conteudoPrincipal__tweet{
-
+    display: flex;
+    align-items: flex-start;
+    padding: 20px 30px;
+    border-bottom: 1px solid #e7ecf0;
 }
 
 .tweet__fotoPerfil{
@@ -99,17 +103,19 @@ body{
 }
 
 .tweet__info{
-
+    margin-left: 15px;
 }
 
 .tweet__info h2{
-
+    display: inline-block;
 }
 
 .tweet__info span{
-    
+    display: inline-block;
+    color: #828282;
 }
 
 .tweet__info p{
-    
+    margin-top: 15px;
+    color: #333333;
 }
